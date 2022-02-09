@@ -32,7 +32,7 @@ Once this repository is cloned to your computer, the following commands need to 
 Note: to access the embrio-institute-example-projects directory run the following
 
 ```
-cd embrio-institute-example-projects
+cd example-education-project
 ```
 
 ```
