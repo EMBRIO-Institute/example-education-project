@@ -37,10 +37,10 @@ cd example-education-project
 
 ```
 conda install mamba -n base -c conda-forge # Recommended for much faster performance
-mamba env create --name embrio-institute-example-projects --file=environment.yml
+mamba env create --name example-education-project --file=environment.yml
 ```
 
-Note that you may name the environment anything you like. It does not need to match the repository name as shown above.
+(Note, you can name the environment anything you like; it doesn't need to match the repository name.)
 
 Once the environment is set up, activate it by running:
 
