@@ -2,7 +2,7 @@
 
 | **View** | **Run with Binder** | **Run with Colab** |
 | --- | --- | --- |
-| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/EMBRIO-Institute/example-education-project/HEAD) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EMBRIO-Institute/example-education-project/HEAD) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EMBRIO-Institute/example-education-project/HEAD) |
+| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/EMBRIO-Institute/example-education-project/HEAD) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EMBRIO-Institute/example-education-project/HEAD) | [![Open In Colab](https://github.com/EMBRIO-Institute/example-education-project) |
 
 
 [Binder](https://jupyter.org/binder) and [nbviewer](https://nbviewer.jupyter.org/) are open source [Project Jupyter](https://jupyter.org/index.html) tools that do not require authentication to use.
