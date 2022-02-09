@@ -2,7 +2,7 @@
 
 | **View** | **Run with Binder** | **Run with Colab** |
 | --- | --- | --- |
-| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/thompsonmj/purdue-bme-695-notebooks/tree/main/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thompsonmj/purdue-bme-695-notebooks/main) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EMBRIO-Institute/example-education-project/tree/main/notebooks) |
+| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/thompsonmj/purdue-bme-695-notebooks/tree/main/) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thompsonmj/purdue-bme-695-notebooks/main) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EMBRIO-Institute/example-education-project/tree/blob/main/notebooks) |
 
 
 [Binder](https://jupyter.org/binder) and [nbviewer](https://nbviewer.jupyter.org/) are open source [Project Jupyter](https://jupyter.org/index.html) tools that do not require authentication to use.
